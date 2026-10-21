@@ -20,17 +20,6 @@
 
 *Сайт доступен по адресу: [https://DFVladislav.github.io/hello-pages/](https://DFVladislav.github.io/hello-pages/)*
 
-**Скриншот сайта:**
-![Сайт](docs/screenshot-site.png)
-
-**Успешный пайплайн (CI/CD):**
-![Actions](docs/screenshot-actions.png)
-
-**История деплоев (Environments):**
-![Environments](docs/screenshot-environments.png)
-
----
-
 ## 🛠 Стек технологий
 
 - **React 18** — библиотека для создания пользовательских интерфейсов.
